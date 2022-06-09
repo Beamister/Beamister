@@ -63,14 +63,13 @@ I’m a full-stack developer who has spent the last couple of years helping to b
 
 <br/>  
 
-<div>
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beamister&hide_border=true&layout=compact" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beamister&hide_border=true&layout=compact" align="left" style="width: 50%; margin-right: 50%" />
 
 
-<br/>  
-<div/>
+<br/> 
+
   
 
 <br/>  
