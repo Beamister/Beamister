@@ -19,7 +19,6 @@ I’m a full-stack developer who has spent the last couple of years helping to b
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🏔️Currently helping launch [Peak's](http://peak.ai) DX joureny!  
   
@@ -30,11 +29,8 @@ I’m a full-stack developer who has spent the last couple of years helping to b
 - ⚡ Fun fact: I'm learning Game Development and Romanian on the side  
 
 
-</td><td valign="top" width="50%">
 
 
-
-</td></tr></table>  
 
 <br/>  
 
@@ -69,15 +65,11 @@ I’m a full-stack developer who has spent the last couple of years helping to b
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beamister&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
 
 
-
-</td></tr></table>  
 
 <br/>  
 
